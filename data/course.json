@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "aff6909f-bff1-81a3-ac76-f5372be021fb",
+  "instructors": {
+    "content": [
+      "5538cd9e-e33c-97ad-03dc-aa446c8cbda1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a7907043-5c8e-33ee-6067-851efa852f29",
+    "website": "18-s997-high-dimensional-statistics-spring-2015"
+  },
+  "course_title": "High-Dimensional Statistics",
+  "hide_download": true,
+  "course_description": "This course offers an introduction to the finite sample analysis of high- dimensional statistical methods. The goal is to present various proof techniques for state-of-the-art methods in regression, matrix estimation and principal component analysis (PCA) as well as optimality guarantees. The course ends with research questions that are currently open.\n\nYou can read more about Prof. Rigollet's work and courses [on his website](http://www-math.mit.edu/~rigollet/)\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.S997",
+  "course_image_thumbnail": {
+    "content": "2fef7aac-6935-abe4-b1ff-70e2017a1950",
+    "website": "18-s997-high-dimensional-statistics-spring-2015"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "567c00dd-f045-4006-8b80-9c818754b0b2",
+  "site_short_id": "18.s997-spring-2015",
+  "site_url_path": "courses/18-s997-high-dimensional-statistics-spring-2015",
+  "title": "Course Metadata"
+}
