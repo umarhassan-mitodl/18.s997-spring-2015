@@ -5,8 +5,6 @@ description: This is a file that contains information regarding high-dimensional
 file: /courses/18-s997-high-dimensional-statistics-spring-2015/8fd9564849a63884766e030fb99c54c0_MIT18_S997S15_Introduction.pdf
 file_size: 261066
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
